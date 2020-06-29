@@ -6,7 +6,7 @@ This application is built using only React components.
 
 _Component diagram:_
 
-[diagram](diagram.png)
+![diagram](diagram.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
